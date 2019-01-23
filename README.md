@@ -1,2 +1,2 @@
 # **EY coding challenge repo**  
-My implementation of Titanic dataset predicting GENDER of passengers.
+My implementation of the algorithmt predicting GENDER of passengers in Titanic. Repo serves as a coding challenge solution.
